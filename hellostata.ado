@@ -1,5 +1,5 @@
 *! hellostata2 v0.0.1
-program define hellostata2
+program define hellostata
 version 18
 /* args name */
 syntax [anything]
