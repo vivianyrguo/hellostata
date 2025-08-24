@@ -2,7 +2,8 @@ v 3
 d hellostata: A simple hello world program for Stata
 d distribution-date: 2025
 d version: 0.0.1
-d author: none
-d support: none 
+d author: N/A
+d support: N/A
+
 f hellostata.ado: hellostata
 f hellostata.sthlp: hellostata
