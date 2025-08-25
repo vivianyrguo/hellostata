@@ -1,4 +1,4 @@
-*! hellostata2 v0.0.1
+*! hellostata v0.0.1
 program define hellostata
 version 18
 /* args name */
