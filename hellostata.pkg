@@ -5,5 +5,5 @@ d version: 0.0.1
 d author: N/A
 d support: N/A
 
-f hellostata.ado: hellostata
-f hellostata.sthlp: hellostata
+f hellostata.ado
+f hellostata.sthlp
